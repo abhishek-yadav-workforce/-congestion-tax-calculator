@@ -1,9 +1,9 @@
 # congestion-tax-calculator
 
 This project is for city congestion tax calculation.
-There are number of table in which user can feed data according to the cities and their relation data which also product owener needs to create.
+There are number of table in which product owner can feed data depending on the cities.
 
-Right now the project contains hardcored data but for product owner we can also expose api to feed tax related data.
+Right now the project contains hardcoded data but for product owner we can also expose api to feed tax related data.
 
 | City                         | TaxChargesPlans    |
 | ------------------------------| -------------       |
