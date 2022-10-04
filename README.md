@@ -18,7 +18,7 @@ Right now the project contains hardcoded data but for product owner we can also 
 
 ### Request to calucate congestion tax
 HTTP Method - POST
-  #curl -i -H 'Accept: application/json' http://localhost:8080/api/calculate-tax/
+  #curl -i -H 'Accept: application/json' http://localhost:8080/api/calculate-tax
   
       Request Body
       {
